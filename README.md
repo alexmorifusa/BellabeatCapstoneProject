@@ -1,4 +1,4 @@
-# Google Analytics CapStone Project: Bellabeat
+# Google Analytics Capstone Project: Bellabeat
 
 ## Scenario:
 You are a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of
