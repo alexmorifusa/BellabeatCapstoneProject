@@ -1,4 +1,4 @@
-# Google Analytics Course CapStone Project: Bellabeat
+# Google Analytics CapStone Project: Bellabeat
 
 ## Scenario:
 You are a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of
@@ -6,8 +6,7 @@ health-focused products for women. Bellabeat is a successful small company, but 
 player in the global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that
 analyzing smart device fitness data could help unlock new growth opportunities for the company. You have been asked to
 focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart
-devices. The insights you discover will then help guide marketing strategy for the company. You will present your analysis to
-the Bellabeat executive team along with your high-level recommendations for Bellabeat’s marketing strategy.
+devices. 
 
 ## 1) Ask
 ### Business Task
@@ -201,11 +200,14 @@ I want to focus on two questions to guide my analysis:
 * Little sample size may lead to inaccurate results. 
 
 ## 5) Share
-Github README.md: 
+Github README.md: https://github.com/alexmorifusa/BellabeatCapstoneProject/blob/main/README.md
+
 ## 6) Act
 Recommendations based on my analysis:
 * Current users are not focused on tracking weight changes, but more to measure how long they are active for. Collaborating with weight loss programs or marketing towards those looking to lose weight can lead to a larger pool of customers.
+  
 * Instead of solely targeting women, becoming appealing to all genders can also lead to a larger customer pool.
+
 * To encourage logging weight, a tutorial can be installed into the Fitbit or the app that connects to the Fitbit to ease the process of logging weight. 
 
 
